@@ -31,10 +31,4 @@ Mobile engineer with a passion for crafting exceptional mobile experiences. I th
 
 ## My Projects [(See All)](https://github.com/Asim-7?tab=repositories)
 
-Here are a few of my favorite projects:
-...
-
-### For work related queries feel free to contact me.
-### Let's turn your App ideas into reality!
-
 Thank you for visiting my GitHub profile! I'm excited to share my software development journey with you. Feel free to explore my repositories and don't hesitate to get in touch. Happy coding! 🚀👨‍💻
