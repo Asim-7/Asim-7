@@ -1,27 +1,31 @@
-## Hi there 👋
+## About Me 👋
+Mobile engineer with a passion for crafting exceptional mobile experiences. I thrive on turning innovative ideas into reality through code. With 9+ years of software development, I specialize in crafting top-notch, high-quality mobile applications.
 
-### Welcome to My GitHub Profile!
-
-## About Me
-
-I'm a self taught Native Android developer. With 9+ years of Native Android app development, I specialize in crafting top-notch, high-quality mobile applications.
-
-## Android Development SkillSet:
-- ✨ Jetpack Compose
-- 📦 Room Database
-- 🤖 Android SDK
-- 🚀Android Jetpack: Navigation, ViewModels, WorkManager, DataStore
+## Android SkillSet:
+- 🚀 Android Jetpack: Navigation, ViewModels, WorkManager, DataStore
+- 💻 Java, Kotlin: Standard Library, Flows, Coroutines
+- ✨ Jetpack Compose, Android SDK
 - 🏡 Android Lifecycle Components
-- 💻 Kotlin: Standard Library, Flows, Coroutines
+- 📦 Room Database
 - 📡 MongoDB Realm Database
 - 🔥 Firebase SDK & Cloud Firestore
-- 🎬 Android Media 3
+- 🎬 Android Media
 - 🧬 MVVM: Modern Android Architecture
 - 🏗 Multi-Module Architecture
-- 🌐 RESTful APIs
-- 🔄 Retrofit
-- 🧰 Android Studio
-- 🖼️ Coil image loading library
+- 🌐 RESTful APIs, GraphQL
+- 🔄 Retrofit, Sandwitch
+- 🖼️ Coil, Picasso, Glide
+- 🧰 CI/CD pipelines
+
+## React Native SkillSet:
+- 🚀 Javascript, Typescript, HTML, CSS
+- 🔥 React Hooks: useLayoutEffect, useState, useEffect, ...
+- 💻 State management: Redux, useState
+- ✨ Expo: Android & iOs
+- 🏡 Props, navigation data
+- 📡 Tailwind css
+- 🧬 Modern Architecture
+- 🌐 RESTful APIs, Axios
 
 💡 Let's Collaborate to Turn Your App Ideas into Captivating Reality!
 
@@ -33,4 +37,4 @@ Here are a few of my favorite projects:
 ### For work related queries feel free to contact me.
 ### Let's turn your App ideas into reality!
 
-Thank you for visiting my GitHub profile! I'm excited to share my Android development journey with you. Feel free to explore my repositories and don't hesitate to get in touch. Happy coding! 🚀👨‍💻
+Thank you for visiting my GitHub profile! I'm excited to share my software development journey with you. Feel free to explore my repositories and don't hesitate to get in touch. Happy coding! 🚀👨‍💻
