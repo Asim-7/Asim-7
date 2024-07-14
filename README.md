@@ -5,9 +5,10 @@ Mobile engineer with a passion for crafting exceptional mobile experiences. I th
 - 🚀 Android Jetpack: Navigation, ViewModels, WorkManager, DataStore
 - 💻 Java, Kotlin: Standard Library, Flows, Coroutines
 - ✨ Jetpack Compose, Android SDK
+- 🧬 Dependency injection: Hilt, Koin
 - 🏡 Android Lifecycle Components
 - 📦 Room Database
-- 📡 MongoDB Realm Database
+- 📡 MongoDB, Realm Database
 - 🔥 Firebase SDK & Cloud Firestore
 - 🎬 Android Media
 - 🧬 MVVM: Modern Android Architecture
