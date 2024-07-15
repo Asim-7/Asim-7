@@ -28,4 +28,4 @@ Mobile engineer with a passion for crafting exceptional mobile experiences. I th
 - 🧬 Modern Architecture
 - 🌐 RESTful APIs, Axios
 
-💡 I'm excited to share my software development journey with you. Feel free to explore my repositories and don't hesitate to get in touch. Happy coding! 🚀👨‍💻
+💡 Feel free to explore my repositories and don't hesitate to get in touch. Happy coding! 🚀👨‍💻
