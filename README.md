@@ -28,8 +28,4 @@ Mobile engineer with a passion for crafting exceptional mobile experiences. I th
 - 🧬 Modern Architecture
 - 🌐 RESTful APIs, Axios
 
-💡 Let's Collaborate to Turn Your App Ideas into Captivating Reality!
-
-## My Projects [(See All)](https://github.com/Asim-7?tab=repositories)
-
-Thank you for visiting my GitHub profile! I'm excited to share my software development journey with you. Feel free to explore my repositories and don't hesitate to get in touch. Happy coding! 🚀👨‍💻
+💡 I'm excited to share my software development journey with you. Feel free to explore my repositories and don't hesitate to get in touch. Happy coding! 🚀👨‍💻
