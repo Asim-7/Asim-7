@@ -1,6 +1,9 @@
 ## About Me 👋
 Mobile engineer with a passion for crafting exceptional mobile experiences. I thrive on turning innovative ideas into reality through code. With 9+ years of software development, I specialize in crafting top-notch, high-quality mobile applications.
 
+## [Portfolio](https://github.com/Asim-7/Portfolio) 💻
+Feel free to explore my portfolio and don't hesitate to get in touch. 🚀👨‍💻
+
 ## Android SkillSet:
 - 🚀 Android Jetpack: Navigation, ViewModels, WorkManager, DataStore
 - 💻 Java, Kotlin: Standard Library, Flows, Coroutines
@@ -27,5 +30,3 @@ Mobile engineer with a passion for crafting exceptional mobile experiences. I th
 - 📡 Tailwind css
 - 🧬 Modern Architecture
 - 🌐 RESTful APIs, Axios
-
-💡 Feel free to explore my repositories and don't hesitate to get in touch. Happy coding! 🚀👨‍💻
