@@ -1,5 +1,5 @@
 ## About Me 👋
-Mobile engineer with a passion for crafting exceptional mobile experiences. I thrive on turning innovative ideas into reality through code. With 9+ years of software development, I specialize in crafting top-notch, high-quality mobile applications.
+Senior mobile software engineer with a passion for crafting exceptional mobile experiences. I thrive on turning innovative ideas into reality through code. With 9+ years of software development, I specialize in crafting top-notch, high-quality mobile applications.
 
 ## [Portfolio](https://github.com/Asim-7/Portfolio) 💻
 Feel free to explore my portfolio and don't hesitate to get in touch. 🚀👨‍💻
