@@ -44,7 +44,7 @@ Explore real-world projects showcasing mobile and backend architecture, system d
 
 ## 📫 Let's Connect
 
-- 🌍 [LinkedIn](https://www.linkedin.com/in/asim-7)  
+- 🌍 [LinkedIn](https://www.linkedin.com/in/myself-asim/)  
 - 💼 [Portfolio](https://github.com/Asim-7/Portfolio)  
 - 🧠 Open to collaboration, mentoring, or freelance gigs in mobile/backend
 
