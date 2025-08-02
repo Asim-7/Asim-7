@@ -6,13 +6,9 @@ I've contributed to large-scale apps like **TomTom GO Navigation (10M+ users)** 
 
 I specialize in **end-to-end product delivery**, from UI to API, focusing on performance, maintainability, and a clean architecture.
 
----
-
 ## 💼 [Portfolio](https://github.com/Asim-7/Portfolio)
 
 Explore real-world projects showcasing mobile and backend architecture, system design, and modern development practices.
-
----
 
 ## 📱 Android Skill Set
 
@@ -28,8 +24,6 @@ Explore real-world projects showcasing mobile and backend architecture, system d
 - **Media:** Android Media APIs  
 - **CI/CD:** GitHub Actions, Fastlane, Play Console Pipelines
 
----
-
 ## ⚛️ React Native Skill Set
 
 - **Languages:** JavaScript, TypeScript  
@@ -40,8 +34,6 @@ Explore real-world projects showcasing mobile and backend architecture, system d
 - **Platform:** Android & iOS delivery  
 - **Architecture:** Modular + Hook-based best practices
 
----
-
 ## 🌐 Backend (In Progress)
 
 - **Languages:** Java, Kotlin  
@@ -50,14 +42,10 @@ Explore real-world projects showcasing mobile and backend architecture, system d
 - **API:** REST, Swagger, JWT-based authentication  
 - **Other:** Docker, GitHub Actions for CI/CD
 
----
-
 ## 📫 Let's Connect
 
 - 🌍 [LinkedIn](https://www.linkedin.com/in/asim-7)  
 - 💼 [Portfolio](https://github.com/Asim-7/Portfolio)  
 - 🧠 Open to collaboration, mentoring, or freelance gigs in mobile/backend
-
----
 
 > 🚀 Constantly learning. Building with purpose. Focused on clean, scalable software.
