@@ -34,7 +34,20 @@ Explore real-world projects showcasing mobile and backend architecture, system d
 - **Platform:** Android & iOS delivery  
 - **Architecture:** Modular + Hook-based best practices
 
-## 🌐 Backend (In Progress)
+## 🐦 Flutter Skill Set
+
+- **Language:** Dart  
+- **Architecture:** Clean Architecture, MVVM  
+- **State Management:** BLoC, Provider, Riverpod
+- **Navigation:** Navigator 1.0, Navigator 2.0 (Router API), go_router, auto_route  
+- **UI Development:** Material 3, Cupertino, Custom Widgets
+- **Dependency Injection:** get_it, Injectable, Provider  
+- **Persistence:** SQLite, Hive, SharedPreferences 
+- **Networking:** Dio, http, Chopper, GraphQL, WebSockets  
+- **Multiplatform:** Android, iOS, Web, Desktop (Windows/Mac/Linux), FlutterFlow  
+
+
+## 🌐 Backend
 
 - **Languages:** Java, Kotlin  
 - **Framework:** Spring Boot  
