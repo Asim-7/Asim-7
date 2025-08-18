@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I’m a **Senior Software Engineer** with 9+ years of experience delivering high-impact mobile apps and scalable backend services. My expertise spans native Android (Kotlin/Java), cross-platform React Native apps, and backend development with Java/Kotlin + Spring Boot.
+I’m a **Senior Software Engineer** with 9+ years of experience delivering high-impact mobile apps and scalable backend services. My expertise spans native Android (Kotlin/Java), cross-platform React Native (JS/TS), Flutter (Dart), and backend development with Java/Kotlin + Spring Boot.
 
 I've contributed to large-scale apps like **TomTom GO Navigation (10M+ users)** and **Prowise Education Suite (100K+ users)**, and worked with startups and agencies on multiple 10K+ user apps.
 
