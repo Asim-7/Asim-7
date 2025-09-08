@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I’m a **Senior Software Engineer** with 9+ years of experience delivering high-impact mobile apps and scalable backend services. My expertise spans native Android (Kotlin/Java), cross-platform React Native (JS/TS), Flutter (Dart), and backend development with Java/Kotlin + Spring Boot.
+I’m a **Senior Software Engineer** with 9+ years of experience delivering high-impact mobile apps and scalable backend services. My expertise spans native Android (Kotlin/Java), iOS (Swift, SwiftUI), cross-platform React Native (JS/TS), Flutter (Dart), and backend development with Java/Kotlin + Spring Boot.
 
 I've contributed to large-scale apps like **TomTom GO Navigation (10M+ users)** and **Prowise Education Suite (100K+ users)**, and worked with startups and agencies on multiple 10K+ user apps.
 
@@ -23,6 +23,19 @@ Explore real-world projects showcasing mobile and backend architecture, system d
 - **Firebase:** Cloud Firestore, Realtime DB, Analytics  
 - **Media:** Android Media APIs  
 - **CI/CD:** GitHub Actions, Fastlane, Play Console Pipelines
+
+## 🍎 iOS Skill Set
+- **Languages:** Swift, SwiftUI  
+- **Architecture:** MVVM, VIPER, Clean Architecture, Modular Architecture  
+- **UI Frameworks:** UIKit, Auto Layout, Interface Builder  
+- **SwiftUI:** Declarative UI, @State, @Binding, @ObservedObject, Combine  
+- **Dependency Injection:** Resolver, Swinject, Factory Pattern  
+- **Persistence:** Core Data, Realm, SQLite, UserDefaults, Keychain  
+- **Networking:** URLSession, Alamofire, GraphQL, Combine Publishers  
+- **Image Loading:** SDWebImage, Kingfisher, AsyncImage  
+- **Apple Frameworks:** Core Animation, Core Location, AVFoundation, ARKit  
+- **Testing:** XCTest, XCUITest, Quick/Nimble, Snapshot Testing  
+- **CI/CD:** Xcode Cloud, Fastlane, GitHub Actions, App Store Connect API
 
 ## ⚛️ React Native Skill Set
 
